@@ -1,5 +1,9 @@
 # Appointment Management System
 
+## Project is Live @:
+
+- https://appointment-management-system-three.vercel.app/
+
 ## Overview
 
 The Appointment Management System is a React-based web application that allows users to efficiently manage their appointments. It features a user-friendly interface with multiple views, easy appointment creation and management, and a dark/light mode toggle for enhanced user experience.
@@ -64,7 +68,7 @@ The Appointment Management System is a React-based web application that allows u
 ## Project Structure
 
 ```
-appointment-management-system/
+AppointmentManagementSystem/
 │
 ├── src/
 │   ├── components/
